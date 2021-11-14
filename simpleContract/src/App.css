@@ -1,0 +1,80 @@
+.Top_part {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.Metamask_connect {
+  border-radius: 15px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.1);
+  font: 400 20px system-ui;
+  border: 1px solid rgb(216, 216, 216);
+}
+
+.Medium_button {
+  border-radius: 15px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.1);
+  font: 400 20px system-ui;
+  border-color: rgb(216, 216, 216);
+}
+
+
+.Mainbody {
+  background-image: url(assets/bg.webp);
+  background-size:  cover;
+  background-color: black;
+  height: 100vh;
+  width: 100%;  
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+}
+.section .panel {
+  width: 600px;
+}
+
+.ID_input{
+color: white;
+font: 200 20px system-ui;
+font-weight: bold;
+}
+
+button {
+  text-transform: none;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font: 700 80px Viner Hand ITC;
+}
+
+table,td{
+  color:white;
+  font: 200 20px system-ui;
+  font-weight: bold;
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin-top: 30px;
+}
+
+.Input{
+  color: white;
+  background-color: rgb(20, 20, 20);
+  font: 300 30px system-ui;
+  border-radius: 15px;
+  font-weight: bold;
+  text-align: right;
+  outline: none;
+}
+
+.result_text{
+  height: 50px;
+  width:150px;
+  color: white;
+  background-color: rgba(0,0,0, 0.1);
+  font: 300 30px system-ui;
+}
